@@ -2,14 +2,11 @@
 
 Проект позволяет работать с паспортами мемристивного биосенсора.
 
-## Цель проекта
-Разработка программного обеспечения для работы с паспортами мемристивных биосенсоров.
-
 ## Структура проекта
 - `src/` — исходный код
 - `docs/` — документация
-- `README.md` — основное описание
+- `README.md` — описание проекта
 
 ## Ссылки
-- [Репозиторий](https://github.com/nikki-si/memristive_biosensors)
 - [Project-доска](https://github.com/users/nikki-si/projects/1)
+- [Wiki](https://github.com/nikki-si/memristive_biosensors/wiki)
